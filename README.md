@@ -1,16 +1,11 @@
-# nyumbang_saran
+Nyumbang Saran - Back End
 
-A new Flutter project.
+Sebuah Mobile Application yang saya buat menggunakan Flutter, sebagai portofolio saya untuk switching career menjadi Junior Flutter Developer. Masih banyak kekurangan pada Mobile Application yang saya buat dan akan terus disempurnakan kedepannya.
 
-## Getting Started
+Fitur yang tersedia :
+Login/Register
+Update USER
+CRUD SARAN
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fitur yang belum tersedia :
+CRUD PENILAIAN
